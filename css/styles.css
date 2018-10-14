@@ -14,7 +14,6 @@ ul{
 
 h1 {
     color: gray;
-    padding: 3rem;
 }
 
 h2 {
@@ -95,6 +94,7 @@ a.nav_bar {
 .title{
     color: rgb(157, 157, 184);
     text-align: center;
+    padding: 3rem;
 }
 
 .title {
