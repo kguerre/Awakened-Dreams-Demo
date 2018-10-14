@@ -172,6 +172,7 @@ a.nav_bar {
 #contact {
     background-color: rgb(139, 131, 131);
     padding: 2rem 0 4rem 0;
+    height: 300px;
 }
 
 #contact_title {
