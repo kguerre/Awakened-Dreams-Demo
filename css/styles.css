@@ -14,6 +14,7 @@ ul{
 
 h1 {
     color: gray;
+    font-size: 24px;
 }
 
 h2 {
@@ -29,7 +30,7 @@ h3 {
 p, li {
     color: white;
     font-family: 'Arimo',sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .wrapper {
@@ -153,7 +154,11 @@ a.nav_bar {
 
 /*THE TEAM*/
 .bio {
-    font-size: 12px;
+    font-size: 16px;
+}
+
+.link {
+    color: rgb(95, 124, 252);
 }
 
 #the_team {
